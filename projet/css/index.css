@@ -1,0 +1,21 @@
+h1{
+	position:absolute;
+	left:100px;
+	top:60px;
+	font-size: 100px;
+	font-family: 'Cambria';
+	text-align:center;
+	color:yellow;
+}
+
+.btn{
+	position:absolute;
+	left:400px;
+	top:300px;
+	cursor: pointer;
+	display:block;
+}
+
+#btn_restart{
+	display:none;
+}
